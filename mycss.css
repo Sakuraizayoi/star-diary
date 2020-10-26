@@ -1,0 +1,7 @@
+books{color:purple;background-color:Teal;width:100%;}
+
+heading{color:CornFlowerBlue;font-size:40px;background-color:OldLace;}
+
+heading,title,author,publisher{display:block;}
+
+title{font-size:25px;font-weight:bold;}
